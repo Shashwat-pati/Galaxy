@@ -32,7 +32,7 @@ window.addEventListener("DOMContentLoaded", () => {
         </div>
         <br>
 
-        <strong><p style="font-size:14px;">Mudde ki Baat!</p></strong>
+        <strong><p style="font-size:14px;margin-top:2;">Mudde ki Baat!</p></strong>
         <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 16px; line-height:1.6 ;font-size:14px;">
             <div>🎯 <strong>Date:</strong> 24.03.2025</div>
             <div>🕒 <strong>Time:</strong> 15:00 hrs</div>
