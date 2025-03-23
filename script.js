@@ -27,7 +27,7 @@ window.addEventListener("DOMContentLoaded", () => {
         </text>😂📷
         <br>
         <text style="font-style:italic">
-        Jo khud ki photo lene se darte hain, Aaj wo bhi <text style="font-style:bold">'Click one more'</text> chillayenge! 
+        Jo khud ki photo lene se darte hain, Aaj wo bhi <strong>'Click one more'</strong> chillayenge! 
         </text>🤭😎 
         </div>
         <br>
