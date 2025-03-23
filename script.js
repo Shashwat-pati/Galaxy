@@ -31,9 +31,6 @@ window.addEventListener("DOMContentLoaded", () => {
         </text>🤭😎 
         </div>
         <br>
-        <br>
-        <br>
-        <br>
 
         <strong><p style="font-size:14px;">Mudde ki Baat!</p></strong>
         <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 40px; line-height: ;font-size:14px;">
