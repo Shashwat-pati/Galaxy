@@ -44,6 +44,7 @@ window.addEventListener("DOMContentLoaded", () => {
         <div style="font-size:14px; font-style:italic;">
         ⭐️Toh aa jana, swag dikhane, yaadein banane, aur photos mein star banne ka sapna sach karwane! 
         </div>📸🔥😎
+        <br>
 
         <div style="position: absolute; bottom: 10px; right: 45px; font-family: 'Great Vibes', cursive; font-size: 18px; color: #ff6347; font-style:bold">
             Yours, Shashwat
