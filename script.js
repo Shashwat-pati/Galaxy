@@ -7,37 +7,36 @@ window.addEventListener("DOMContentLoaded", () => {
     const contentElement = document.querySelector(".content");
 
     if (greetingElement && name) {
-        // Reduced the "Dear [name]" part to half size while keeping the original italic style
-        greetingElement.innerHTML = `<span style="font-size: 50%; font-family: 'Great Vibes', cursive;">Dear&nbsp;&nbsp;${name},</span>`;
+        greetingElement.innerHTML = `Dear&nbsp&nbsp;${name},`;
     }
 
     // Enhanced Invitation Content
     const invitationContent = `
     <div style="font-size: 12px; line-height: 1.6; max-height: 10rem">
-        <div style="font-size: 15px; font-weight: bold;">Camera ready hai, bas aapka swag chahiye! 📷✨</div>
+        <div style="font-size: 15px; font-style:bold ">Camera ready hai, bas aapka swag chahiye!</strong>📷✨
+        </div>
         
         <br>
-        <text style="font-family: 'Great Vibes', cursive;">
+        <text style="font-style:italic">
         💫 Cheers peg se shuru karenge aur pic kheechne k nashe mein kho jaenge...
         </text>
         <br>
 
-        <text style="font-family: 'Great Vibes', cursive;">
+        <text style="font-style:italic">
         Jinke DP pe hamesha car hoti hai, Wo bhi photoshoot mein model banke aayenge! 
-        </text> 😂📷
+        </text>😂📷
         <br>
-        <text style="font-family: 'Great Vibes', cursive;">
+        <text style="font-style:italic">
         Jo khud ki photo lene se darte hain, Aaj wo bhi <strong>'Click one more'</strong> chillayenge! 
-        </text> 🤭😎
+        </text>🤭😎 
         </div>
-        
         <br>
         <br>
         <br>
         <br>
 
-        <strong><p style="font-size: 14px;">Mudde ki Baat!</p></strong>
-        <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 40px; line-height: 1.8; font-size: 12px;">
+        <strong><p style="font-size:14px;">Mudde ki Baat!</p></strong>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 40px; line-height: ;font-size:12px;">
             <div>🎯 <strong>Date:</strong> 24.03.2025</div>
             <div>🕒 <strong>Time:</strong> 15:00 hrs</div>
             <div>📍 <strong>Venue:</strong> E-learning Centre</div>
@@ -45,10 +44,10 @@ window.addEventListener("DOMContentLoaded", () => {
         </div>
         
         <br>
-        <div style="font-size: 16px; font-family: 'Great Vibes', cursive;">
-        ⭐️ Toh aa jana, swag dikhane, yaadein banane, aur photos mein star banne ka sapna sach karwane! 📸🔥😎
+        <div style="font-size:16px; font-style:italic;">
+        ⭐️Toh aa jana, swag dikhane, yaadein banane, aur photos mein star banne ka sapna sach karwane! 📸🔥😎
         </div>
-    </div>
+        </div>
     `;
 
     // Apply the content dynamically
@@ -74,3 +73,9 @@ window.addEventListener("DOMContentLoaded", () => {
 
     setInterval(createCracker, 200);
 });
+
+{
+    /* <text style="font-style:italic">
+        Wahi log sabse zyada candid maarenge, Jo group photo mein bhi border pe khade hote hain! 
+</text>😜🔥 */
+}
