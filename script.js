@@ -37,7 +37,7 @@ window.addEventListener("DOMContentLoaded", () => {
             <div>🎯 <strong>Date:</strong> 24.03.2025</div>
             <div>🕒 <strong>Time:</strong> 15:00 hrs</div>
             <div>📍 <strong>Venue:</strong> E-learning Centre</div>
-            <div>👔 <strong>Dress:</strong> Aapke Pasandida Vastra</div>
+            <div>👔 <strong>Dress-code:</strong> Aapke Pasandida Vastra</div>
         </div>
         
         <br>
