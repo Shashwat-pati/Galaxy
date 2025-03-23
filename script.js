@@ -33,11 +33,11 @@ window.addEventListener("DOMContentLoaded", () => {
         <br>
 
         <strong><p style="font-size:14px;">Mudde ki Baat!</p></strong>
-        <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 20px; line-height: ;font-size:14px;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 16px; line-height: ;font-size:14px;">
             <div>🎯 <strong>Date:</strong> 24.03.2025</div>
             <div>🕒 <strong>Time:</strong> 15:00 hrs</div>
             <div>📍 <strong>Venue:</strong> E-learning Centre</div>
-            <div>👔 <strong>Dress-code:</strong> Aapke Pasandida Vastra</div>
+            <div>👔 <strong>Dress code:</strong> Aapke Pasandida Vastra</div>
         </div>
         
         <br>
