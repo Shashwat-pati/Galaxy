@@ -23,7 +23,7 @@ window.addEventListener("DOMContentLoaded", () => {
         <br>
 
         <text style="font-style:italic">
-        Jinke DP pe hamesha car hoti hai, Wo bhi photoshoot mein model banke aayenge! 
+        Jinke DP pe hamesha car hoti hai, Wo bhi model banke aayenge! 
         </text>😂📷
         <br>
         <text style="font-style:italic">
