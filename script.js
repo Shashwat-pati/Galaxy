@@ -37,13 +37,13 @@ window.addEventListener("DOMContentLoaded", () => {
             <div>🎯 <strong>Date:</strong> 24.03.2025</div>
             <div>🕒 <strong>Time:</strong> 15:00 hrs</div>
             <div>📍 <strong>Venue:</strong> E-learning Centre</div>
-            <div>👔 <strong>Dress Code:</strong> Aapke Pasandida Vastra</div>
+            <div>👔 <strong>Dress:</strong> Aapke Pasandida Vastra</div>
         </div>
         
         <br>
         <div style="font-size:14px; font-style:italic;">
-        ⭐️Toh aa jana, swag dikhane, yaadein banane, aur photos mein star banne ka sapna sach karwane! 📸🔥😎
-        </div>
+        ⭐️Toh aa jana, swag dikhane, yaadein banane, aur photos mein star banne ka sapna sach karwane! 
+        </div>📸🔥😎
         </div>
     `;
 
@@ -70,9 +70,3 @@ window.addEventListener("DOMContentLoaded", () => {
 
     setInterval(createCracker, 200);
 });
-
-{
-    /* <text style="font-style:italic">
-        Wahi log sabse zyada candid maarenge, Jo group photo mein bhi border pe khade hote hain! 
-</text>😜🔥 */
-}
