@@ -7,8 +7,8 @@ window.addEventListener("DOMContentLoaded", () => {
     const contentElement = document.querySelector(".content");
 
     if (greetingElement && name) {
-        // Reduced the "Dear [name]" part to half the size while keeping italic styling
-        greetingElement.innerHTML = `<span style="font-size: 50%; font-style: italic;">Dear&nbsp;&nbsp;${name},</span>`;
+        // Reduced the "Dear [name]" part to half size while keeping the original italic style
+        greetingElement.innerHTML = `<span style="font-size: 50%; font-family: 'Great Vibes', cursive;">Dear&nbsp;&nbsp;${name},</span>`;
     }
 
     // Enhanced Invitation Content
@@ -17,16 +17,16 @@ window.addEventListener("DOMContentLoaded", () => {
         <div style="font-size: 15px; font-weight: bold;">Camera ready hai, bas aapka swag chahiye! 📷✨</div>
         
         <br>
-        <text style="font-style: italic;">
+        <text style="font-family: 'Great Vibes', cursive;">
         💫 Cheers peg se shuru karenge aur pic kheechne k nashe mein kho jaenge...
         </text>
         <br>
 
-        <text style="font-style: italic;">
+        <text style="font-family: 'Great Vibes', cursive;">
         Jinke DP pe hamesha car hoti hai, Wo bhi photoshoot mein model banke aayenge! 
         </text> 😂📷
         <br>
-        <text style="font-style: italic;">
+        <text style="font-family: 'Great Vibes', cursive;">
         Jo khud ki photo lene se darte hain, Aaj wo bhi <strong>'Click one more'</strong> chillayenge! 
         </text> 🤭😎
         </div>
@@ -45,7 +45,7 @@ window.addEventListener("DOMContentLoaded", () => {
         </div>
         
         <br>
-        <div style="font-size: 16px; font-style: italic;">
+        <div style="font-size: 16px; font-family: 'Great Vibes', cursive;">
         ⭐️ Toh aa jana, swag dikhane, yaadein banane, aur photos mein star banne ka sapna sach karwane! 📸🔥😎
         </div>
     </div>
