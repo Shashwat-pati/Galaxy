@@ -12,7 +12,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     // Enhanced Invitation Content
     const invitationContent = `
-    <div style="font-size: 12px; line-height: 1.6; max-height: 10rem">
+    <div style="font-size: 13px; line-height: 1.6; max-height: 10rem">
         <div style="font-size: 14px; font-style:bold ">Camera ready hai, bas aapka swag chahiye!</strong>📷✨
         </div>
         
