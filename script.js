@@ -13,7 +13,7 @@ window.addEventListener("DOMContentLoaded", () => {
     // Enhanced Invitation Content
     const invitationContent = `
     <div style="font-size: 12px; line-height: 1.6; max-height: 10rem">
-        <div style="font-size: 15px; font-style:bold ">Camera ready hai, bas aapka swag chahiye!</strong>📷✨
+        <div style="font-size: 10px; font-style:bold ">Camera ready hai, bas aapka swag chahiye!</strong>📷✨
         </div>
         
         <br>
@@ -36,7 +36,7 @@ window.addEventListener("DOMContentLoaded", () => {
         <br>
 
         <strong><p style="font-size:14px;">Mudde ki Baat!</p></strong>
-        <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 40px; line-height: ;font-size:12px;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 40px; line-height: ;font-size:14px;">
             <div>🎯 <strong>Date:</strong> 24.03.2025</div>
             <div>🕒 <strong>Time:</strong> 15:00 hrs</div>
             <div>📍 <strong>Venue:</strong> E-learning Centre</div>
