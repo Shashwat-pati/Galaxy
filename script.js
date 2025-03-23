@@ -7,8 +7,8 @@ window.addEventListener("DOMContentLoaded", () => {
     const contentElement = document.querySelector(".content");
 
     if (greetingElement && name) {
-        // Reduced the font size for "Dear [name]" to half
-        greetingElement.innerHTML = `<span style="font-size: 50%;">Dear&nbsp;&nbsp;${name},</span>`;
+        // Reduced the "Dear [name]" part to half the size while keeping italic styling
+        greetingElement.innerHTML = `<span style="font-size: 50%; font-style: italic;">Dear&nbsp;&nbsp;${name},</span>`;
     }
 
     // Enhanced Invitation Content
