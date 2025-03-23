@@ -47,7 +47,7 @@ window.addEventListener("DOMContentLoaded", () => {
         <br>
         <br>
 
-        <div style="position: absolute; bottom: 10px; right: 35px; font-family: 'Great Vibes', cursive; font-size: 18px; color: #ff6347; font-style:bold">
+        <div style="position: absolute; bottom: 10px; right: 30px; font-family: 'Great Vibes', cursive; font-size: 18px; color: #ff6347; font-style:bold">
             Yours, Shashwat
         </div>
         </div>
